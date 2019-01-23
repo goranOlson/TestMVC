@@ -10,6 +10,7 @@ namespace MvcDemo.Controllers
 {
     public class HomeController : Controller
     {
+        // Testar med en kommentar
         public IActionResult Index()
         {
             return View();
